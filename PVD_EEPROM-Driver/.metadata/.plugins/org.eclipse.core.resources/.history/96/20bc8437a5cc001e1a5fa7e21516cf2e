@@ -1,0 +1,17 @@
+#ifndef SYS_BACKUP_H_
+#define SYS_BACKUP_H_
+
+typedef struct{
+	uint32_t loggingInterval;
+	uint32_t temperatureCalibOffset;
+	uint32_t humidityCalibOffset;
+
+}SystemSettings;
+
+typedef struct{
+	uint32_t timestamp;
+	uint32_t temperature;
+	uint32_t humidity;
+
+}SensorReading;
+#endif

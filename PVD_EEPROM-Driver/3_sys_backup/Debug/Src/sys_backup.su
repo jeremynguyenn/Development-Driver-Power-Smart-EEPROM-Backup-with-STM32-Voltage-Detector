@@ -1,0 +1,4 @@
+../Src/sys_backup.c:5:6:backup_settings	16	static
+../Src/sys_backup.c:12:6:restore_settings	16	static
+../Src/sys_backup.c:20:6:backup_last_reading	16	static
+../Src/sys_backup.c:27:6:restore_last_reading	16	static

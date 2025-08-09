@@ -1,0 +1,10 @@
+08:13:08 **** Incremental Build of configuration Debug for project 2_pvd_eeprom_driver ****
+make -j4 all 
+arm-none-eabi-size   2_pvd_eeprom_driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8396	    108	   1612	  10116	   2784	2_pvd_eeprom_driver.elf
+Finished building: default.size.stdout
+ 
+
+08:13:09 Build Finished. 0 errors, 0 warnings. (took 425ms)
+

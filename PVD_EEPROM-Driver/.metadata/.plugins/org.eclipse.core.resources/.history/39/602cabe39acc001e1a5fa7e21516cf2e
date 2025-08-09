@@ -1,0 +1,9 @@
+#include "pvd.h"
+
+#define PWR_EN		(1U<<28)
+
+void pvd_init(void)
+{
+	/*Enable clock access to PWR module*/
+	RCC->APB1ENR |=PWR_EN;
+}

@@ -1,0 +1,4 @@
+C:/Users/user/Documents/PVD_EEPROM-Course/3_sys_backup/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/pvd.c:10:6:pvd_init	8	static
+../Src/pvd.c:32:6:pwr_pvd_callback	32	static
+../Src/pvd.c:56:6:PVD_IRQHandler	8	static

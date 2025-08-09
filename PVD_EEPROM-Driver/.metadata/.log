@@ -1,0 +1,42 @@
+!SESSION 2024-02-15 14:14:40.302 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-02-15 14:15:13.325
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-15 14:15:13.458
+!MESSAGE Log4j initialized with config file C:\Users\user\Documents\PVD_EEPROM-Course\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-15 14:15:21.495
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-15 14:15:55.254
+!MESSAGE Indexed '12-at24cxx_eeprom' (8 sources, 71 headers) in 5.52 sec: 3,964 declarations; 6,882 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.018%)
+!SESSION 2024-02-16 03:56:25.200 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-02-16 03:56:53.396
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-16 03:56:53.534
+!MESSAGE Log4j initialized with config file C:\Users\user\Documents\PVD_EEPROM-Course\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-16 03:57:05.427
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-16 04:00:12.036
+!MESSAGE Indexed '2_pvd_eeprom_driver' (8 sources, 71 headers) in 4.04 sec: 3,964 declarations; 6,882 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.018%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-16 04:00:20.068
+!MESSAGE Indexed '1-at24cxx_eeprom' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-16 08:19:15.434
+!MESSAGE Indexed '3_sys_backup' (9 sources, 13 headers) in 0.673 sec: 1,014 declarations; 2,450 references; 21 unresolved inclusions; 29 syntax errors; 768 unresolved names (18%)
